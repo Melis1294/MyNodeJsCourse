@@ -1,0 +1,25 @@
+{
+  "name": "mynodejscourse",
+  "version": "1.0.0",
+  "description": "NodeJs exercises taken from learnyounode",
+  "main": "01-hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint /."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melis1294/MyNodeJsCourse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melis1294/MyNodeJsCourse/issues"
+  },
+  "homepage": "https://github.com/Melis1294/MyNodeJsCourse#readme",
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}
